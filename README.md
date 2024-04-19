@@ -2,26 +2,17 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+My motivation was to build a webpage that can contain employees salary can keep track. I build this project to solve a problem of not being able to see and keep track of the employees name and salary. This project solves the problem of not keeping track of employees salary. During this project I learned how to loop until the user cancels. I also learned how to calculate and display the average salary and display a random employee.
 
-- What was your motivation?
+## Usage
 
-
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-
-
-- What problem does it solve?
-
-
-- What did you learn?
+In order to use this webpage you have to click the "Add Employees" button. Then a loop of questions pop up and need to be answered to move onto the next. This loop continues until the user clicks cancel. Then the data is obtained and showed on screen from the order it is entered in.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Thank you Bung Sitko for collaborating or this project. 
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Here is their repo: https://github.com/BunggoyLearn/employee-payroll-tracker 
 
 ## License
 
