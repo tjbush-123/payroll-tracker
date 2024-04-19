@@ -10,7 +10,7 @@ In order to use this webpage you have to click the "Add Employees" button. Then 
 
 ## Credits
 
-Thank you Bung Sitko for collaborating or this project. 
+Thank you Bung Sitko for collaborating on this project. 
 
 Here is their repo: https://github.com/BunggoyLearn/employee-payroll-tracker 
 
