@@ -8,6 +8,12 @@ My motivation was to build a webpage that can contain employees salary can keep 
 
 In order to use this webpage you have to click the "Add Employees" button. Then a loop of questions pop up and need to be answered to move onto the next. This loop continues until the user clicks cancel. Then the data is obtained and showed on screen from the order it is entered in.
 
+## Deployed website
+
+https://tjbush-123.github.io/payroll-tracker/
+
+![alt text](image.png)
+
 ## Credits
 
 Thank you Bung Sitko for collaborating on this project. 
